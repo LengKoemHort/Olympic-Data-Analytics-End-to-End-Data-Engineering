@@ -1,0 +1,204 @@
+id|name|continent|flag_url|gold_medals|silver_medals|bronze_medals|total_medals|rank|rank_total_medals|DataCollectionDate
+USA|EUA|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/USA.png|40|44|42|126|1|1|2025-01-11T05:20:35.761581
+CHN|China|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHN.png|40|27|24|91|2|2|2025-01-11T05:20:35.761581
+JPN|Japão|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/JPN.png|20|12|13|45|3|6|2025-01-11T05:20:35.761581
+AUS|Austrália|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/AUS.png|18|19|16|53|4|5|2025-01-11T05:20:35.761581
+FRA|França|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/FRA.png|16|26|22|64|5|4|2025-01-11T05:20:35.761581
+NED|Países Baixos|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NED.png|15|7|12|34|6|8|2025-01-11T05:20:35.761581
+GBR|Grã-Bretanha|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GBR.png|14|22|29|65|7|3|2025-01-11T05:20:35.761581
+KOR|República da Coréia|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KOR.png|13|9|10|32|8|10|2025-01-11T05:20:35.761581
+ITA|Itália|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ITA.png|12|13|15|40|9|7|2025-01-11T05:20:35.761581
+GER|Alemanha|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GER.png|12|13|8|33|10|9|2025-01-11T05:20:35.761581
+NZL|Nova Zelândia|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NZL.png|10|7|3|20|11|12|2025-01-11T05:20:35.761581
+CAN|Canadá|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CAN.png|9|7|11|27|12|11|2025-01-11T05:20:35.761581
+UZB|Uzbequistão|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/UZB.png|8|2|3|13|13|16|2025-01-11T05:20:35.761581
+HUN|Hungria|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/HUN.png|6|7|6|19|14|14|2025-01-11T05:20:35.761581
+ESP|Espanha|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ESP.png|5|4|9|18|15|15|2025-01-11T05:20:35.761581
+SWE|Suécia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SWE.png|4|4|3|11|16|19|2025-01-11T05:20:35.761581
+KEN|Quênia|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KEN.png|4|2|5|11|17|19|2025-01-11T05:20:35.761581
+NOR|Noruega|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NOR.png|4|1|3|8|18|26|2025-01-11T05:20:35.761581
+IRL|Irlanda|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IRL.png|4|0|3|7|19|30|2025-01-11T05:20:35.761581
+BRA|Brasil|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BRA.png|3|7|10|20|20|12|2025-01-11T05:20:35.761581
+IRI|Repúb. Islâmica Irã|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IRI.png|3|6|3|12|21|17|2025-01-11T05:20:35.761581
+UKR|Ucrânia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/UKR.png|3|5|4|12|22|17|2025-01-11T05:20:35.761581
+ROU|Romênia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ROU.png|3|4|2|9|23|23|2025-01-11T05:20:35.761581
+GEO|Geórgia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GEO.png|3|3|1|7|24|30|2025-01-11T05:20:35.761581
+BEL|Bélgica|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BEL.png|3|1|6|10|25|21|2025-01-11T05:20:35.761581
+BUL|Bulgária|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BUL.png|3|1|3|7|26|30|2025-01-11T05:20:35.761581
+SRB|Sérvia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SRB.png|3|1|1|5|27|44|2025-01-11T05:20:35.761581
+CZE|Tchéquia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CZE.png|3|0|2|5|28|44|2025-01-11T05:20:35.761581
+DEN|Dinamarca|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/DEN.png|2|2|5|9|29|23|2025-01-11T05:20:35.761581
+AZE|Azerbaijão|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/AZE.png|2|2|3|7|30|30|2025-01-11T05:20:35.761581
+CRO|Croácia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CRO.png|2|2|3|7|30|30|2025-01-11T05:20:35.761581
+CUB|Cuba|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CUB.png|2|1|6|9|32|23|2025-01-11T05:20:35.761581
+BRN|Bahrein|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BRN.png|2|1|1|4|33|49|2025-01-11T05:20:35.761581
+SLO|Eslovênia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SLO.png|2|1|0|3|34|58|2025-01-11T05:20:35.761581
+TPE|Chinese Taipei|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TPE.png|2|0|5|7|35|30|2025-01-11T05:20:35.761581
+AUT|Áustria|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/AUT.png|2|0|3|5|36|44|2025-01-11T05:20:35.761581
+PHI|Filipinas|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PHI.png|2|0|2|4|37|49|2025-01-11T05:20:35.761581
+HKG|Hong Kong, China|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/HKG.png|2|0|2|4|37|49|2025-01-11T05:20:35.761581
+ALG|Argélia|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ALG.png|2|0|1|3|39|58|2025-01-11T05:20:35.761581
+INA|Indonésia|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/INA.png|2|0|1|3|39|58|2025-01-11T05:20:35.761581
+ISR|Israel|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ISR.png|1|5|1|7|41|30|2025-01-11T05:20:35.761581
+POL|Polônia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/POL.png|1|4|5|10|42|21|2025-01-11T05:20:35.761581
+KAZ|Cazaquistão|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KAZ.png|1|3|3|7|43|30|2025-01-11T05:20:35.761581
+RSA|África do Sul|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/RSA.png|1|3|2|6|44|38|2025-01-11T05:20:35.761581
+JAM|Jamaica|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/JAM.png|1|3|2|6|44|38|2025-01-11T05:20:35.761581
+THA|Tailândia|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/THA.png|1|3|2|6|44|38|2025-01-11T05:20:35.761581
+ETH|Etiópia|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ETH.png|1|3|0|4|47|49|2025-01-11T05:20:35.761581
+SUI|Suíça|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SUI.png|1|2|5|8|48|26|2025-01-11T05:20:35.761581
+ECU|Equador|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ECU.png|1|2|2|5|49|44|2025-01-11T05:20:35.761581
+POR|Portugal|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/POR.png|1|2|1|4|50|49|2025-01-11T05:20:35.761581
+GRE|Grécia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GRE.png|1|1|6|8|51|26|2025-01-11T05:20:35.761581
+ARG|Argentina|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ARG.png|1|1|1|3|52|58|2025-01-11T05:20:35.761581
+EGY|Egito|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/EGY.png|1|1|1|3|52|58|2025-01-11T05:20:35.761581
+TUN|Tunísia|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TUN.png|1|1|1|3|52|58|2025-01-11T05:20:35.761581
+BOT|Botswana|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BOT.png|1|1|0|2|55|66|2025-01-11T05:20:35.761581
+CHI|Chile|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHI.png|1|1|0|2|55|66|2025-01-11T05:20:35.761581
+LCA|Santa Lúcia|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/LCA.png|1|1|0|2|55|66|2025-01-11T05:20:35.761581
+UGA|Uganda|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/UGA.png|1|1|0|2|55|66|2025-01-11T05:20:35.761581
+DOM|República Dominicana|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/DOM.png|1|0|2|3|59|58|2025-01-11T05:20:35.761581
+GUA|Guatemala|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GUA.png|1|0|1|2|60|66|2025-01-11T05:20:35.761581
+MAR|Marrocos|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MAR.png|1|0|1|2|60|66|2025-01-11T05:20:35.761581
+DMA|Dominica|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/DMA.png|1|0|0|1|62|77|2025-01-11T05:20:35.761581
+PAK|Paquistão|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PAK.png|1|0|0|1|62|77|2025-01-11T05:20:35.761581
+TUR|Türkiye|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TUR.png|0|3|5|8|64|26|2025-01-11T05:20:35.761581
+MEX|México|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MEX.png|0|3|2|5|65|44|2025-01-11T05:20:35.761581
+ARM|Armênia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ARM.png|0|3|1|4|66|49|2025-01-11T05:20:35.761581
+COL|Colômbia|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/COL.png|0|3|1|4|66|49|2025-01-11T05:20:35.761581
+KGZ|Quirguistão|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KGZ.png|0|2|4|6|68|38|2025-01-11T05:20:35.761581
+PRK|RPD da Coréia|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PRK.png|0|2|4|6|68|38|2025-01-11T05:20:35.761581
+LTU|Lituânia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/LTU.png|0|2|2|4|70|49|2025-01-11T05:20:35.761581
+IND|Índia|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IND.png|0|1|5|6|71|38|2025-01-11T05:20:35.761581
+MDA|Moldova|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MDA.png|0|1|3|4|72|49|2025-01-11T05:20:35.761581
+KOS|Kosovo|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KOS.png|0|1|1|2|73|66|2025-01-11T05:20:35.761581
+CYP|Chipre|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CYP.png|0|1|0|1|74|77|2025-01-11T05:20:35.761581
+FIJ|Fiji|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/FIJ.png|0|1|0|1|74|77|2025-01-11T05:20:35.761581
+JOR|Jordânia|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/JOR.png|0|1|0|1|74|77|2025-01-11T05:20:35.761581
+MGL|Mongólia|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MGL.png|0|1|0|1|74|77|2025-01-11T05:20:35.761581
+PAN|Panamá|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PAN.png|0|1|0|1|74|77|2025-01-11T05:20:35.761581
+TJK|Tajiquistão|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TJK.png|0|0|3|3|79|58|2025-01-11T05:20:35.761581
+ALB|Albânia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ALB.png|0|0|2|2|80|66|2025-01-11T05:20:35.761581
+GRN|Granada|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GRN.png|0|0|2|2|80|66|2025-01-11T05:20:35.761581
+MAS|Malásia|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MAS.png|0|0|2|2|80|66|2025-01-11T05:20:35.761581
+PUR|Porto Rico|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PUR.png|0|0|2|2|80|66|2025-01-11T05:20:35.761581
+CPV|Cabo Verde|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CPV.png|0|0|1|1|84|77|2025-01-11T05:20:35.761581
+QAT|Catar|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/QAT.png|0|0|1|1|84|77|2025-01-11T05:20:35.761581
+CIV|Côte d'Ivoire|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CIV.png|0|0|1|1|84|77|2025-01-11T05:20:35.761581
+SVK|Eslováquia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SVK.png|0|0|1|1|84|77|2025-01-11T05:20:35.761581
+PER|Peru|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PER.png|0|0|1|1|84|77|2025-01-11T05:20:35.761581
+SGP|Singapura|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SGP.png|0|0|1|1|84|77|2025-01-11T05:20:35.761581
+ZAM|Zâmbia|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ZAM.png|0|0|1|1|84|77|2025-01-11T05:20:35.761581
+EOR|EOR||https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/EOR.png|0|0|1|1|84|77|2025-01-11T05:20:35.761581
+AFG|Afeganistão|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/AFG.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+AND|Andorra|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/AND.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+ANG|Angola|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ANG.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+ANT|Antígua e Barbuda|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ANT.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+KSA|Arábia Saudita|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KSA.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+ARU|Aruba|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ARU.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+BAH|Bahamas|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BAH.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+BAN|Bangladesh|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BAN.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+BAR|Barbados|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BAR.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+BIZ|Belize|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BIZ.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+BEN|Benim|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BEN.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+BER|Bermudas|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BER.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+BOL|Bolívia|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BOL.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+BIH|Bósnia e Herzegovina|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BIH.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+BRU|Brunei Darussalam|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BRU.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+BUR|Burkina Faso|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BUR.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+BDI|Burundi|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BDI.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+BHU|Butão|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BHU.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+CMR|Camarões|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CMR.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+CAM|Camboja|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CAM.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+CHA|Chade|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHA.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+COM|Comores|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/COM.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+CGO|Congo|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CGO.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+COK|Ilhas Cook|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/COK.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+CRC|Costa Rica|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CRC.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+DJI|Djibuti|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/DJI.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+ESA|El Salvador|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ESA.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+UAE|Emir. Árabes Unidos|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/UAE.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+ERI|Eritreia|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ERI.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+EST|Estônia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/EST.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+FIN|Finlândia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/FIN.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+GAB|Gabão|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GAB.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+GAM|Gâmbia|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GAM.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+GHA|Gana|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GHA.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+GUM|Guam|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GUM.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+GUY|Guiana|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GUY.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+GUI|Guiné|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GUI.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+GEQ|Guiné Equatorial|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GEQ.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+GBS|Guiné-Bissau|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GBS.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+HAI|Haiti|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/HAI.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+HON|Honduras|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/HON.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+YEM|Iêmen|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/YEM.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+CAY|Ilhas Cayman|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CAY.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+MHL|Ilhas Marshall|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MHL.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+MRI|Ilhas Maurício|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MRI.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SOL|Ilhas Salomão|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SOL.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+IVB|Ilhas Virgens Brit.|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IVB.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+ISV|Ilhas Virgens EUA|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ISV.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+IRQ|Iraque|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IRQ.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+ISL|Islândia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ISL.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+KIR|Kiribati|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KIR.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+KUW|Kuwait|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KUW.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+LAO|Laos|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/LAO.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+LAT|Letônia|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/LAT.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+LBN|Líbano|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/LBN.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+LBR|Libéria|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/LBR.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+LBA|Líbia|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/LBA.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+LIE|Liechtenstein|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/LIE.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+LUX|Luxemburgo|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/LUX.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+MAD|Madagascar|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MAD.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+MAW|Malawi|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MAW.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+MDV|Maldivas|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MDV.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+MLI|Mali|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MLI.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+MLT|Malta|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MLT.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+MTN|Mauritânia|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MTN.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+FSM|Micronésia|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/FSM.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+MON|Mônaco|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MON.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+MNE|Montenegro|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MNE.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+MOZ|Moçambique|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MOZ.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+MYA|Mianmar|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MYA.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+NAM|Namíbia|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NAM.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+NRU|Nauru|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NRU.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+NEP|Nepal|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NEP.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+NCA|Nicarágua|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NCA.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+NIG|Níger|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NIG.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+NGR|Nigéria|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NGR.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+OMA|Omã|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/OMA.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+PLW|Palau|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PLW.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+PLE|Estado da Palestina|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PLE.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+PNG|Papua-Nova Guiné|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PNG.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+PAR|Paraguai|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PAR.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+CAF|Rep. Centroafricana|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CAF.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+COD|RD Congo|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/COD.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SYR|Rep. Árabe Síria|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SYR.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+RWA|Ruanda|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/RWA.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SKN|S. Cristóvão e Névis|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SKN.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SMR|San Marino|EUR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SMR.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+STP|São Tomé e Príncipe|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/STP.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SEN|Senegal|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SEN.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SEY|Seicheles|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SEY.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SLE|Serra Leoa|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SLE.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SOM|Somália|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SOM.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SRI|Sri Lanka|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SRI.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SSD|Sudão do Sul|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SSD.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SUD|Sudão|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SUD.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SUR|Suriname|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SUR.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SWZ|Essuatíni|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SWZ.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+TAN|Tanzânia|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TAN.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+TLS|Timor-Leste|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TLS.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+TOG|Togo|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TOG.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+TGA|Tonga|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TGA.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+TTO|Trinidad e Tobago|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TTO.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+TKM|Turcomenistão|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TKM.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+TUV|Tuvalu|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TUV.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+URU|Uruguai|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/URU.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+VAN|Vanuatu|OCE|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/VAN.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+VEN|Venezuela|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/VEN.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+VIN|S. Vicen. e Granadi.|AME|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/VIN.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+VIE|Vietnã|ASI|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/VIE.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+ZIM|Zimbábue|AFR|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ZIM.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+AIN|AIN||https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/AIN.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
+SAM|Samoa|-|https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SAM.png|0|0|0|0|0|0|2025-01-11T05:20:35.761581
